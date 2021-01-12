@@ -14,15 +14,15 @@ var end_img;
 var end1;
 
 function preload() {
-  track = loadImage("../images/track.jpg");
-  car1_img = loadImage("../images/car1.png");
-  car2_img = loadImage("../images/car2.png");
-  car3_img = loadImage("../images/car3.png");
-  car4_img = loadImage("../images/car4.png");
-  ground = loadImage("../images/ground.png");
-  logo_img = loadImage("../images/logo.png");
-  bg = loadImage("../images/bg.png");
-  end1=loadImage("../images/end.png");
+  track = loadImage("images/track.jpg");
+  car1_img = loadImage("images/car1.png");
+  car2_img = loadImage("images/car2.png");
+  car3_img = loadImage("images/car3.png");
+  car4_img = loadImage("images/car4.png");
+  ground = loadImage("images/ground.png");
+  logo_img = loadImage("images/logo.png");
+  bg = loadImage("images/bg.png");
+  end1=loadImage("images/end.png");
 }
 
 function setup() {
